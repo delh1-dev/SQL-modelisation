@@ -8,3 +8,9 @@
 
 - dessiner le MLD
   ex: j'ai ajouté une table de liaison avec deux clés étrangères potion-id et ingrédient-id
+
+  # exo 4.3
+
+- MPD qui correspond au MLD
+  ex: j'ai crée le MPD avec trois tables: potion, ingredient, ingredient_potion
+  reliées par des clés étrangères
