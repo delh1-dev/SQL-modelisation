@@ -14,3 +14,11 @@
 - MPD qui correspond au MLD
   ex: j'ai crée le MPD avec trois tables: potion, ingredient, ingredient_potion
   reliées par des clés étrangères
+
+# atelier
+
+- j'ai dessiner le MCD puis le MLD de la base de la SPA
+
+# difficulte
+
+- les cardinalités
